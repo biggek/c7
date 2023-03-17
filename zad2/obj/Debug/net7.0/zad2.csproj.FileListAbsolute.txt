@@ -1,0 +1,15 @@
+C:\Users\lolit\Desktop\c#7\zad2\bin\Debug\net7.0\zad2.exe
+C:\Users\lolit\Desktop\c#7\zad2\bin\Debug\net7.0\zad2.deps.json
+C:\Users\lolit\Desktop\c#7\zad2\bin\Debug\net7.0\zad2.runtimeconfig.json
+C:\Users\lolit\Desktop\c#7\zad2\bin\Debug\net7.0\zad2.dll
+C:\Users\lolit\Desktop\c#7\zad2\bin\Debug\net7.0\zad2.pdb
+C:\Users\lolit\Desktop\c#7\zad2\obj\Debug\net7.0\zad2.csproj.AssemblyReference.cache
+C:\Users\lolit\Desktop\c#7\zad2\obj\Debug\net7.0\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolit\Desktop\c#7\zad2\obj\Debug\net7.0\zad2.AssemblyInfoInputs.cache
+C:\Users\lolit\Desktop\c#7\zad2\obj\Debug\net7.0\zad2.AssemblyInfo.cs
+C:\Users\lolit\Desktop\c#7\zad2\obj\Debug\net7.0\zad2.csproj.CoreCompileInputs.cache
+C:\Users\lolit\Desktop\c#7\zad2\obj\Debug\net7.0\zad2.dll
+C:\Users\lolit\Desktop\c#7\zad2\obj\Debug\net7.0\refint\zad2.dll
+C:\Users\lolit\Desktop\c#7\zad2\obj\Debug\net7.0\zad2.pdb
+C:\Users\lolit\Desktop\c#7\zad2\obj\Debug\net7.0\zad2.genruntimeconfig.cache
+C:\Users\lolit\Desktop\c#7\zad2\obj\Debug\net7.0\ref\zad2.dll
